@@ -1,8 +1,8 @@
 # MIAOSU短视频APP
 这个推送太复杂了,就直接打包传上来,不推送了!
 先展示一下效果!
-[安卓下载点这里]https://github.com/Alphonse-Sun/MIAOSU-APP/releases/download/%E5%AE%89%E5%8D%93/__UNI__C0469A1__20211116185454.apk
-[IOS下载点这里]https://github.com/Alphonse-Sun/MIAOSU-APP/releases/download/IOS/__UNI__C0469A1__20211116185454.ipa
+<p>[安卓下载点这里]https://github.com/Alphonse-Sun/MIAOSU-APP/releases/download/%E5%AE%89%E5%8D%93/__UNI__C0469A1__20211116185454.apk<p>
+<p>[IOS下载点这里]https://github.com/Alphonse-Sun/MIAOSU-APP/releases/download/IOS/__UNI__C0469A1__20211116185454.ipa<p>
 这里是一下页面截图
 ![image](https://user-images.githubusercontent.com/94306098/141974777-ed89701d-bc5b-4b16-a9dc-fbfc076be65a.png)
 ![image](https://user-images.githubusercontent.com/94306098/141974796-dcc39dfb-4723-47f0-b98f-62a19ae0ad66.png)
