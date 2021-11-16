@@ -46,6 +46,7 @@ AndroidX版本需添加如下资源
  implementation 'com.github.bumptech.glide:glide:4.9.0'
  implementation 'com.alibaba:fastjson:1.1.46.android'
 Copy to clipboardErrorCopied
+
 support版本需添加如下资源
 
  implementation fileTree(dir: 'libs', include: ['*.aar', '*.jar'], exclude: [])
@@ -57,6 +58,7 @@ support版本需添加如下资源
  implementation 'com.github.bumptech.glide:glide:4.9.0'
  implementation 'com.alibaba:fastjson:1.1.46.android'
 Copy to clipboardErrorCopied
+
 uni-app配置时需要在build.gradle中添加aaptOptions配置
 
  aaptOptions {  
@@ -64,6 +66,7 @@ uni-app配置时需要在build.gradle中添加aaptOptions配置
      ignoreAssetsPattern "!.svn:!.git:.*:!CVS:!thumbs.db:!picasa.ini:!*.scc:*~"  
  }
 Copy to clipboardErrorCopied
+
 注意：更新SDK时需要同时更新aar/jar文件和build.gradle配置
 应用配置
 
@@ -79,6 +82,7 @@ Copy to clipboardErrorCopied
       android:name="dcloud_appkey"
       android:value="替换为自己申请的Appkey" />
 Copy to clipboardErrorCopied
+ 
 配置应用版本号
 
 ![image](https://user-images.githubusercontent.com/94306098/141958082-423f6ba1-3ce3-4f65-abd0-93cbeae570f5.png)
@@ -291,8 +295,3 @@ Build为编译版本号，App Store判断升级使用，推荐与manifest.json�
 在打开的原生工程中，点击工程的targets和点开manifest文件，然后将manifest文件里的“version”字段里的“name”的内容 和原生工程里的Version 的写成一样。注意，manifest文件里的“version”字段里的“name” 
  
 ![image](https://user-images.githubusercontent.com/94306098/141960796-0906f3b8-67d6-4304-b142-996f11884ead.png)
-
-
-
-
- 
