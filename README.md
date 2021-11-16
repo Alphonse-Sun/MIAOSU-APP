@@ -1,4 +1,4 @@
-# miaosu
+# MIAOSU短视频APP
 这个推送太复杂了,就直接打包传上来,不推送了!
 # 安卓开发环境
 Android Studio 
