@@ -1,6 +1,6 @@
 # MIAOSU短视频APP
 这个推送太复杂了,就直接打包传上来,不推送了!
-先展示一下效果 
+先展示一下效果!
 安卓下载地址:https://github.com/Alphonse-Sun/MIAOSU-APP/releases/download/%E5%AE%89%E5%8D%93/__UNI__C0469A1__20211116185454.apk
 IOS下载地址:https://github.com/Alphonse-Sun/MIAOSU-APP/releases/download/IOS/__UNI__C0469A1__20211116185454.ipa
 这里是一下页面截图
