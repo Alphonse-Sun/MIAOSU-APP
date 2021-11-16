@@ -1,5 +1,10 @@
 # MIAOSU短视频APP
 这个推送太复杂了,就直接打包传上来,不推送了!
+先展示一下效果
+![image](https://user-images.githubusercontent.com/94306098/141974777-ed89701d-bc5b-4b16-a9dc-fbfc076be65a.png)
+![image](https://user-images.githubusercontent.com/94306098/141974796-dcc39dfb-4723-47f0-b98f-62a19ae0ad66.png)
+![image](https://user-images.githubusercontent.com/94306098/141974817-3a525063-fdc8-4dfe-81e7-cad529bb0a43.png)
+
 # 安卓开发环境
 Android Studio 
 App离线SDK下载：最新android平台SDK下载
