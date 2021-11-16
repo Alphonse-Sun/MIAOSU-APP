@@ -1,6 +1,8 @@
 # MIAOSU短视频APP
 这个推送太复杂了,就直接打包传上来,不推送了!
+
 ![image](https://user-images.githubusercontent.com/94306098/141977000-599860b0-2abe-40ef-b16f-f4c2179d9896.png)
+
 ↑↑↑手机扫码体验
 
  这里是一下页面截图
