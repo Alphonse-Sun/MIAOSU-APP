@@ -188,6 +188,7 @@ Copy to clipboardErrorCopied
           android:resource="@xml/dcloud_file_provider" />
   </provider>
 Copy to clipboardErrorCopied
+ 
 注意：${apk.applicationId} 必须替换成当前应用的包名
 
 如果集成离线SDK时需要重写application，必须继承自DCloudApplication，否则会导致SDK中业务逻辑无法正常运行。
@@ -242,9 +243,11 @@ Android studio默认项目没有assets文件夹，需手动创建，创建位置
 
 修改dcloud_control.xml中的appid为拷贝过来的uni-app的id，确保dcloud_control.xml中的appid与manifest.json中的id与文件夹名一致，如下图所示：
   ![image](https://user-images.githubusercontent.com/94306098/141958863-55da4ae2-706e-4028-9e59-7c434137193b.png)
+ 
 生成自定义基座，需要在根节点下添加debug="true"和syncDebug="true"，如下图：
 
 ![image](https://user-images.githubusercontent.com/94306098/141958912-8023d2e1-892c-42fc-aa1b-5bf3f4b29abe.png)
+ 
 自定义基座支持热更新需要将debug-server-release.aar打入apk中，生成正式包时可以删除。
 
 其他配置
